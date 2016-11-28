@@ -3,3 +3,6 @@ My First Test txfdfd      File
 My Staged Data Changed
 
 Becas Changed Files
+
+
+New text added in styaging
